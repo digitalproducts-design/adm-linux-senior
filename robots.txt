@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 # Substitua SEU-USUARIO antes de publicar.
-Sitemap: https://SEU-USUARIO.github.io/administracao-linux-senior/sitemap.xml
+
+Sitemap: https://digitalproducts-design.github.io/adm-linux-senior/sitemap.xml
