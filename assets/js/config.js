@@ -5,10 +5,10 @@
  * 3. Cole abaixo em checkoutUrl.
  */
 window.PRODUCT_CONFIG = Object.freeze({
-  checkoutUrl: "https://pay.kiwify.com.br/COLE-SEU-LINK-AQUI",
+  checkoutUrl: "https://pay.kiwify.com.br/MMLxZE2",
   productName: "Administração Linux Sênior",
-  priceLabel: "",
+  priceLabel: "R$:20,00",
   supportEmail: "",
-  canonicalUrl: "https://SEU-USUARIO.github.io/administracao-linux-senior/",
+  canonicalUrl: "https://digitalproducts-design.github.io/adm-linux-senior/#inicio",
   preserveTrackingParameters: true
 });
